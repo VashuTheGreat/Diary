@@ -87,7 +87,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-100 p-6">
         <div className="max-w-xl mx-auto bg-white shadow-lg rounded-xl p-6">
           <h1 className="text-3xl font-bold mb-4 text-center text-purple-800">My Personal Diary</h1>
-          <img className="w-8" src="./book.gif" alt="Book" />
+          <img className="w-8" src="./Book.gif" alt="Book" />
 
           <form onSubmit={handleSubmit}>
             <textarea
